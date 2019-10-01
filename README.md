@@ -1,12 +1,10 @@
 # Twilight
+![Logo](icon.png)
 A Lovable Dark color theme for programmers.
 
 ![License: MIT](https://img.shields.io/github/license/srimani-programmer/Twilight)
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey)
 ![Type](https://img.shields.io/badge/type-extension-orange)
-
-### Simple UI
-![GIF](video.gif)
 
 ## Installation
 
