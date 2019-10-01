@@ -1,0 +1,30 @@
+{
+    "name": "twilight",
+    "displayName": "Twilight",
+    "description": "A Standard Lovable theme for programmers",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/srimani-programmer/Twilight"
+    },
+    "icon":"icon.png",
+    "publisher": "Sri Manikanta",
+    "author": {
+        "name": "Sri Manikanta Palakollu"
+    },
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Twilight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Twilight-color-theme.json"
+            }
+        ]
+    }
+}
