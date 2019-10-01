@@ -7,7 +7,7 @@ A Lovable Dark color theme for programmers.
 
 ### Simple UI
 
-![Video](video)
+![Video](video.mov)
 
 ## Installation
 
