@@ -1,5 +1,5 @@
 # Twilight
-![Logo](icon.png)
+![Logo](icon.png = 250x250)
 A Lovable Dark color theme for programmers.
 
 ![License: MIT](https://img.shields.io/github/license/srimani-programmer/Twilight)
