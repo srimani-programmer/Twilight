@@ -6,7 +6,7 @@ A Lovable Dark color theme for programmers.
 ![Type](https://img.shields.io/badge/type-extension-orange)
 
 ### Simple UI
-
+![GIF](video.gif)
 
 ## Installation
 
